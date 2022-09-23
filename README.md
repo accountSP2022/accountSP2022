@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @accountSP2022
 - 👀 
-- 🌱 I’m currently learning Java, C++
+- 🌱 I’m currently learning Java, C++, arduino basics
 - 📫 
 -
 
